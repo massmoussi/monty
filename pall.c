@@ -2,7 +2,7 @@
 
 
 /**
- * f_pall - func to print all element in stack
+ * op_pall - func to print all element in stack
  * @stack: pntr to pntr to our stack
  * @counter: line numb
  * Return: nothg it's a void
